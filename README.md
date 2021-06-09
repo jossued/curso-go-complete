@@ -20,3 +20,7 @@ The very first line is the declaration of the package we are into
     - main.exe or ./main
 - Reusable: code used as 'helpers'. Good place to put reusable logic
      - package `calculator`-> custom name
+
+## Imports
+Import give access to some code to our package.
+[Standard library packages](golang.org/pkg)
