@@ -24,3 +24,8 @@ The very first line is the declaration of the package we are into
 ## Imports
 Import give access to some code to our package.
 [Standard library packages](golang.org/pkg)
+
+## Organization 
+1. package declaration
+2. import other packages that we need
+3. declare functions, tell go to do things
